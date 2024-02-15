@@ -1,31 +1,31 @@
 <h1 align="center">Hi 👋, I'm Pranav Sojan</h1>
 <h3 align="center">A passionate BTech Computer Science and Engineering Student.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavsojan2026&label=Profile%20views&color=0e75b6&style=flat" alt="pranavsojan2026" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranavsojan2026" alt="pranavsojan2026" /></a> </p>
+# 💫 About Me:
+I'm a B.Tech student majoring in Computer Science, deeply passionate about coding and technology. <br>Right now, I'm focused on getting better at  programming and Web Designing.<br><br>🌱 I’m currently learning Python, Java and C Programing.<br>🔭 I’m interested in Web Design and App development.<br>📚 I love keeping up with the latest in tech and enjoy discussing programming and trends. <br>💬 Feel free to reach out for a chat anytime!<br><br>📫 How to reach me pranavsojan2026@cs.sjcetpalai.ac.in<br>📫Also available on pranavsojan025@gmail.com
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- I'm currently studying BTech CSE at **SJCET,Palai.**
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_._pranavv._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pranavsojan) 
 
-- 🌱 I’m currently learning **Python,Java and C Programing.**
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=pranavsojan2026&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=pranavsojan2026&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavsojan2026&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 📫 How to reach me **pranavsojan025@gmail.com**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=pranavsojan2026&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+[![](https://visitcount.itsvg.in/api?id=pranavsojan2026&icon=2&color=1)](https://visitcount.itsvg.in)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavsojan2026&show_icons=true&locale=en&layout=compact" alt="pranavsojan2026" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranavsojan2026&show_icons=true&locale=en" alt="pranavsojan2026" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavsojan2026&" alt="pranavsojan2026" /></p>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!---
 pranavsojan2026/pranavsojan2026 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
